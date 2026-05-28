@@ -40,6 +40,9 @@ bash tools/install_hooks.sh
 | `idea.md` / `method.md` | 研究问题 / 数学方法 |
 | `Discussion.md` | 当前 active 议题（一议题一主线） |
 | `LOGS/YYYY-Www.md` | 周实验日志 |
+| `code/` | 项目主代码（结构见 `code/README.md`） |
+| `baseline/` | 对比 baseline（可选，结构见 `baseline/README.md`） |
+| `ref/` | 论文 / 资料（默认不读，显式引用时必读） |
 | `tools/` | 新建周志 / 新建实验 / 协议 lint 三件套 |
 
 ## License
